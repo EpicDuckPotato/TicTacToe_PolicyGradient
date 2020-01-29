@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Anoop/Python Projects/TicTacToe_A2C/tic_tac_toe_critic_nobad_a2c"
+all_model_checkpoint_paths: "C:/Anoop/Python Projects/TicTacToe_A2C/tic_tac_toe_critic_nobad_a2c"
